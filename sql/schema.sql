@@ -1,0 +1,9 @@
+-- Create NAV History Table
+
+CREATE TABLE nav_history (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    date DATE NOT NULL,
+    nav REAL NOT NULL,
+    source TEXT DEFAULT 'MFAPI',
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
