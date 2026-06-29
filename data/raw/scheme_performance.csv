@@ -1,0 +1,12 @@
+scheme_id,scheme_name,fund_house,category,expense_ratio,returns_1yr,returns_3yr,returns_5yr,risk_level,aum_cr
+MF001,HDFC Top 100 Fund,HDFC,Large Cap,1.12,15.8,18.4,20.1,Medium,25000
+MF002,SBI Bluechip Fund,SBI,Large Cap,1.05,16.2,17.9,19.8,Medium,22000
+MF003,ICICI Prudential Bluechip,ICICI,Large Cap,1.08,17.1,18.8,21.2,Medium,27000
+MF004,Axis Bluechip Fund,Axis,Large Cap,1.18,14.5,16.9,18.7,Medium,18000
+MF005,Kotak Bluechip Fund,Kotak,Large Cap,1.10,15.3,17.5,19.5,Medium,21000
+MF001,HDFC Top 100 Fund,HDFC,Large Cap,1.12,15.8,18.4,20.1,Medium,25000
+MF006,Mirae Asset Large Cap,Mirae Asset,Large Cap,0.98,17.5,19.2,21.8,Medium,26000
+MF007,Nippon India Large Cap,Nippon India,Large Cap,1.15,16.4,18.0,20.0,Medium,23000
+MF008,UTI Flexi Cap,UTI,Flexi Cap,1.08,18.1,19.5,22.3,High,19500
+MF009,Parag Parikh Flexi Cap,PPFAS,Flexi Cap,0.90,21.3,23.8,25.6,High,42000
+MF010,Canara Robeco Bluechip,Canara Robeco,Large Cap,1.02,15.9,17.7,19.4,Medium,17500
